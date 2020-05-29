@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "name":"the fakehobbit",
+        "authorId":1
+    },
+    {
+        "id":2,
+        "name":"the hobbit",
+        "authorId":2
+    }
+]
